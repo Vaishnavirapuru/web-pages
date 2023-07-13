@@ -1,0 +1,78 @@
+body{
+    border-top:2px solid rgb(122, 197, 201);
+    border-bottom:2px solid rgb(122, 197, 201); 
+    width:90%;
+    margin:auto;
+    margin-top:50px;
+    
+
+}
+h1{
+    font-size:45px;
+    font-family:dubai Medium;
+    color:rgb(51, 178, 232);
+    margin-bottom:20px;
+    margin-top:20px;
+}
+
+#flex{
+    display:flex;
+    justify-content:space-around;
+    gap:1px;
+
+    margin-bottom:50px;
+    align-content:center;
+    padding-left:20px;
+}
+img{
+    width:80px;
+    height:60px;
+    
+}
+.flex-items h2{
+    font-size:25px;
+    font-family:Dubai Medium;
+    margin:20px 20px;
+
+    color:rgb(51, 178, 232);
+    text-shadow:4px;
+    
+
+
+}
+.flex-items{
+    box-shadow:4px 4px 4px 4px rgb(152, 174, 182);
+    width:100%;
+
+    height:320px;
+    margin:auto;
+    text-align:center;
+    padding-top:40px;
+    padding-bottom:40px;
+    
+
+    
+    
+}
+input{
+    box-shadow:2px rgb(51, 178, 232);
+    background-color:rgb(13, 122, 169); 
+    color:white;
+    font-size:15px;
+    margin-top:20px;
+    padding-top:10px;
+    padding-bottom:10px;
+    margin-left:65px;
+    margin-right:80px;
+    border-radius:6px;
+    border:1px solid rgb(13, 122, 169);
+    margin-bottom:80px;
+    width:40%;
+
+}
+p{
+    font-size:18px;
+    font-family:Dubai Medium;
+    color:rgb(133, 129, 129);
+    
+}
